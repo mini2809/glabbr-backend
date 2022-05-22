@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Gabriel",
+		"companyName": "ZenCorporation",
+		"location": "Alaska ,Usa",
+		"status": "Active",
+		"tags": ["Client", "Workshop"],
+		"favorite": false
+	},
+	{
+		"name": "Zayn",
+		"companyName": "GCorporation",
+		"location": "LosAngeles,USA",
+		"status": "Active",
+		"tags": ["Client"],
+		"favorite": false
+	},
+	{
+		"name": "Tinker",
+		"companyName": "HZ Bank",
+		"location": "Paris,Italy",
+		"status": "InActive",
+		"tags": ["Workshop"],
+		"favorite": false
+	},
+	{
+		"name": "Peter",
+		"companyName": "Apple",
+		"location": "Silicon Valley",
+		"status": "Active",
+		"tags": ["Client", "Workshop"],
+		"favorite": true
+	},
+	{
+		"name": "Aliza",
+		"companyName": "Micorsoft",
+		"location": "Reydmond,USA",
+		"status": "Active",
+		"tags": ["Client", "Workshop"],
+		"favorite": true
+	},
+	{
+		"name": "Tom ",
+		"companyName": "Z-Millenails Ltd",
+		"location": "Ohio",
+		"status": "Active",
+		"tags": ["Client", "Workshop"],
+		"favorite": false
+	},
+	{
+		"name": "Ted",
+		"companyName": "ZenCorporation",
+		"location": "LosAngeles ,USA",
+		"status": "Active",
+		"tags": ["Client", "Workshop"],
+		"favorite": true
+	},
+	{
+		"name": "Harvey",
+		"companyName": "HSBC",
+		"location": "Delhi,India",
+		"status": "Active",
+		"tags": ["Client"],
+		"favorite": true
+	},
+	{
+		"name": "Malcolm",
+		"companyName": "Zolo Ltd",
+		"location": "Paris, Italy",
+		"status": "Inactive",
+		"tags": ["Client", "Workshop"],
+		"favorite": false
+	},
+	{
+		"name": "Pi Dous",
+		"companyName": "Zolo Ltd",
+		"location": "Paris, Italy",
+		"status": "Active",
+		"tags": ["Client", "Workshop"],
+		"favorite": true
+	}
+]
