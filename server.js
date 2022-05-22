@@ -3,7 +3,7 @@ const cors = require("cors");
 const express = require("express");
 const res = require("express/lib/response");
 const app = express();
-const port = 8080;
+const port = process.env.port || 8080;
 
 let returnArray = [];
 app.use(cors());
